@@ -1,0 +1,54 @@
+body{
+    background-color: whitesmoke;
+}
+.cnt{
+    width: 60%;
+    margin-left: 25%;
+    font-size: 1.2em;
+}
+.a{
+    margin-top: 20px;
+    height: 50px;
+}
+.b{
+    background-color: rgb(1, 168, 85);
+    color: white;
+    border-radius: 10px;
+    height: 300px;
+}
+.b table{
+    width: 100%;
+}
+.b table td{
+    padding-top: 45px;
+    text-align: center;
+}
+.b table td a{
+   text-decoration: none;
+   color: white;
+}
+.b table td a:hover{
+    color: yellow;
+ }
+ .am{
+    font-size: 2em;
+ }
+.c{
+    background-color: white;
+    border-radius: 10px;
+    height: 250px;
+    margin-top: 20px;
+}
+.c table{
+    text-align: center;
+    width: 100%;
+}
+.c table td{
+    padding-top: 60px;
+}
+.c table td a{
+    text-decoration: none;
+ }
+ .c table td a:hover{
+     color: purple;
+  }
